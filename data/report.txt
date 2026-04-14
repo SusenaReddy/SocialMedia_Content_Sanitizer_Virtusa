@@ -1,0 +1,8 @@
+SOCIAL MEDIA CONTENT MODERATION REPORT
+=============================================
+
+Total Posts: 120
+Cleaned Posts: 52
+Blocked Posts: 15
+Total Links Found: 120
+

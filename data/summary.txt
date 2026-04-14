@@ -1,0 +1,57 @@
+USER MODERATION SUMMARY
+========================================
+
+Total Users: 50
+Total Violations: 115
+
+User-wise Violations:
+Ravi: 6
+Anjali: 4
+Kiran: 6
+Meena: 4
+Arjun: 4
+Sneha: 5
+Rahul: 3
+Priya: 5
+Vikram: 3
+Divya: 6
+Rohit: 3
+Pooja: 4
+Suresh: 4
+Neha: 5
+Karthik: 3
+Swathi: 4
+Manoj: 4
+Keerthi: 6
+Ajay: 4
+Bhavana: 4
+Ramesh: 1
+Lakshmi: 1
+Nikhil: 1
+Anusha: 1
+Deepak: 1
+Harika: 1
+Gopi: 1
+Sravani: 1
+Chandu: 1
+Sindhu: 1
+Mahesh: 1
+Gayatri: 1
+Raghu: 1
+Padma: 2
+Venu: 1
+Teja: 1
+Madhavi: 0
+Srikanth: 1
+Jyothi: 1
+Naresh: 0
+Sandhya: 1
+Prakash: 1
+Usha: 1
+Krishna: 1
+Latha: 0
+Murali: 0
+Radha: 2
+Siva: 1
+Kavya: 1
+Balu: 1
